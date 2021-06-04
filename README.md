@@ -1,5 +1,6 @@
 # Coding Standards and Best Practices
 
+The following are recommended style guides for PHP and Ruby programs developed by staff at the York Libraries. These are meant to be a good introduction and staff are recommended to follow industry standards whenever possible.
 
 ## PHP Style Guide
 - https://gist.github.com/ryansechrest/8138375
