@@ -1,7 +1,5 @@
 # Coding Standards and Best Practices
 
-# The Open Web Application Security Project® (OWASP) 
-- https://owasp.org/
 
 # PHP Style Guide
 - https://gist.github.com/ryansechrest/8138375
